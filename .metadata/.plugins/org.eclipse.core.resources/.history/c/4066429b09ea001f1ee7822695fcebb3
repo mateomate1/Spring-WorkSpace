@@ -1,0 +1,10 @@
+package com.example.demo;
+
+public class Snippet {
+	spring.datasource.url=jdbc:mysql://localhost:3306/FCTs
+	spring.datasource.username=examen
+	spring.datasource.password=examen
+	spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+	spring.jpa.hibernate.ddl-auto=none 
+}
+
