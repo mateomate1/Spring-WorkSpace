@@ -13,7 +13,8 @@ public class DemoApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		// Aqui es donde nosotros añadiremos todas las operaciones que antes añadiamos mediante el main
+		//Aqui añadiremos todas las aplicaciones antes de añadirlas al main
+		System.out.println("Hola");
 	}
 
 }

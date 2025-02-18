@@ -23,9 +23,9 @@
 
 	<!-- Configuración específica para Hibernate -->
 	<!-- Consultas SQL generadas -->
-	<logger name="org.hibernate.SQL" level="DEBUG" />
+	<logger name="org.hibernate.SQL" level="INFO" />
 	<!-- Mostrar parámetros de las consultas -->
-	<logger name="org.hibernate.orm.jdbc.bind" level="TRACE" />
+	<logger name="org.hibernate.orm.jdbc.bind" level="INFO" />
 	<!-- Configuración interna de Hibernate -->
 	<logger name="org.hibernate" level="INFO" />
 
