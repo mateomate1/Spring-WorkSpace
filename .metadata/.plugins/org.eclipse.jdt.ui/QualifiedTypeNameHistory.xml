@@ -2,8 +2,15 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
-    <fullyQualifiedTypeName name="com.example.demo.Alumno"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
     <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.example.demo.AlumnoRepository"/>
+    <fullyQualifiedTypeName name="com.example.demo.Alumno"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.example.demo.Contacto"/>
+    <fullyQualifiedTypeName name="com.example.demo.DemoApplication"/>
+    <fullyQualifiedTypeName name="com.example.demo.AlumnoService"/>
 </qualifiedTypeNameHistroy>
