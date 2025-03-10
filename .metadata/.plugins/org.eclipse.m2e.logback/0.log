@@ -1603,3 +1603,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration DemoApplication ref
 2025-03-02 21:49:22,570 [Worker-3: Launching AD_UD07_Trabajo_SPRING_Componentes_MateoAyarra_MarioGarcia (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Program Files\sts-4.28.0.RELEASE\plugins\com.google.guava.failureaccess_1.0.2.jar
 2025-03-02 21:49:22,572 [Worker-3: Launching AD_UD07_Trabajo_SPRING_Componentes_MateoAyarra_MarioGarcia (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Mateo\Spring-WorkSpace\AD_UD07_Trabajo_SPRING_Componentes_MateoAyarra_MarioGarcia":
 2025-03-02 21:49:22,572 [Worker-3: Launching AD_UD07_Trabajo_SPRING_Componentes_MateoAyarra_MarioGarcia (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2025-03-09 18:13:00,731 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
